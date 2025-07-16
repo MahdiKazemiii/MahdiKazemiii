@@ -50,9 +50,7 @@
 
 ### 📫 Contact Me
 - Email: mehdikazemi14044@gmail.com
-- Telegram : @mahdikazemi_s
-- Instagram : @__mahdikazemis
-- فث
+
 <!-- - LinkedIn: [linkedin.com/in/mehdi-kazemi](https://linkedin.com/in/MahdiKazemiii)  -->
 <!-- Website: [mehdi-kazemi.dev](https://mehdi-kazemi.dev) -->
 
