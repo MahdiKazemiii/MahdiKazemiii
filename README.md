@@ -1,3 +1,4 @@
+![My Profile](https://github.com/user-attachments/assets/e842ec8f-c2a7-43c0-bc67-b200ae082d60)
 <h1 align="center">Hi, I'm Mehdi Kazemi 👨‍💻</h1>
 <h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Problem Solver</h3>
 
