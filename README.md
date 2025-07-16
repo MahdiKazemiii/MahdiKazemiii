@@ -2,8 +2,6 @@
 <!-- <h1 align="center">Hi, I'm Mehdi Kazemi 👨‍💻</h1>-->
 <!-- <h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast </h3> -->
 
----
-
 ### 👨‍💻 About Me
 
 - 💻 I'm a passionate full-stack developer with experience in both front-end and back-end technologies.
