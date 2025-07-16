@@ -1,6 +1,6 @@
 ![My Profile](https://github.com/user-attachments/assets/e842ec8f-c2a7-43c0-bc67-b200ae082d60)
 <h1 align="center">Hi, I'm Mehdi Kazemi 👨‍💻</h1>
-<h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast | Problem Solver</h3>
+<h3 align="center">Full-Stack Web Developer | Clean Code Enthusiast </h3>
 
 ---
 
@@ -9,7 +9,7 @@
 - 💻 I'm a passionate full-stack developer with experience in both front-end and back-end technologies.
 - 🚀 I enjoy building responsive web applications and solving real-world problems with efficient code.
 - 🌱 Currently learning more about DevOps, automated testing, and scalable backend architecture.
-- 🎯 Always focused on writing clean, maintainable, and scalable code.
+- 🎯 Always focused on maintainable, and scalable code.
 
 ---
 
@@ -49,8 +49,10 @@
 ---
 
 ### 📫 Contact Me
-
-- Email: mehdikazemi14044@gmail.com  
+- Email: mehdikazemi14044@gmail.com
+- Telegram : @mahdikazemi_s
+- Instagram : @__mahdikazemis
+- فث
 <!-- - LinkedIn: [linkedin.com/in/mehdi-kazemi](https://linkedin.com/in/MahdiKazemiii)  -->
 <!-- Website: [mehdi-kazemi.dev](https://mehdi-kazemi.dev) -->
 
