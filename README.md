@@ -44,6 +44,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=MahdiKazemiii&show_icons=true&theme=default" alt="Mehdi's GitHub stats" />
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiKazemiii&label=Profile%20views&color=0e75b6&style=flat" alt="MahdiKazemiii" /> </p>
+
 ---
 
 ### 📫 Contact Me
